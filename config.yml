@@ -2,7 +2,7 @@ title: "Juggaluggg's Blog"
 email: Juggalugg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
-baseurl: "/my_blog/" # the subpath of your site, e.g. /blog
+baseurl: "/my_blog" # the subpath of your site, e.g. /blog
 url: "https://Juggaluggg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository:
 twitter:
