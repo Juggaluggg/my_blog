@@ -1,4 +1,4 @@
-title: "Juggaluggg's Hacker Blog"
+title: "Juggaluggg's Blog"
 email: Juggalugg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
@@ -17,7 +17,7 @@ disqus:
 author: Juggaluggg
 author_bio: >-
 
-author_pic:
+author_pic: assets\img\author_pic\Mamon.jpg
 
 paginate: 5
 paginate_path: "/:num/"
